@@ -1,0 +1,21 @@
+ Flux
+ https://stackblitz.com/edit/angular-pyhvt7?file=src%2Fapp%2FContainer.component.html
+ 
+ Test output event emitter
+ https://stackblitz.com/edit/angular-yk3cbn?file=src%2Fapp%2Fnested.component.html
+ 
+ 
+ Input Example
+ https://stackblitz.com/edit/angular-ogurbc?file=src%2Fapp%2Fnested.component.ts
+ 
+ 
+ ngOnChanges Example
+ https://stackblitz.com/edit/angular-zwzd8t?file=src%2Fapp%2Fnested.component.ts
+ 
+ 
+ Singlton&DependencyInjection
+ https://stackblitz.com/edit/angular-uu6ctd?file=src%2Fapp%2FUserPreferences.service.ts
+ 
+ 
+ Service regitred in Second Module
+ https://stackblitz.com/edit/angular-5amny4?file=src%2Fapp%2Fapp.module.ts
